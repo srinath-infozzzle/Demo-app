@@ -7,3 +7,4 @@
     {{Form::submit('Click Me!')}}
 {!! Form::close() !!}
     @endsection
+    
